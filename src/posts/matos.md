@@ -22,8 +22,8 @@
 | SLR Magic HyperPrime CINE III 25mm T0.95 | 25mm | T/0.95 | Non | Bokeh très doux, bon en basse lumière du à sa grande ouverture |
 | SLR Magic HyperPrime CINE 12mm T1.6 | 12mm | T/1.6 | Non | Objectif grand angle, bokeh très doux |
 | Olympus M.Zuiko Digital ED 60mm F2.8 Macro  | 60mm | f/2.8 | Non | Objectif macro très précis, même en basse lumière |
-| Walimex Pro T3.1 10mm ED AS NCS CS | 10mm | T3.1 | Non | Objectif grand angle |
-| Sirui Anamorphic 1.33X 50mm F1.8 | 50mm | F1.8 | Non | Objectif anamorphique avec un bokeh oval et un flare horizontal caractéristique |
+| Walimex Pro T3.1 10mm ED AS NCS CS | 10mm | T/3.1 | Non | Objectif grand angle |
+| Sirui Anamorphic 1.33X 50mm F1.8 | 50mm | f/1.8 | Non | Objectif anamorphique avec un bokeh oval et un flare horizontal caractéristique |
 
 ### 📷 Monture M42
 
